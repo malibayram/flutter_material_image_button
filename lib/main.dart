@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
               child: FlatButton(
                 padding: EdgeInsets.all(0.0),
                 onPressed: () {
-                  debugPrint('butona tıklandı');
+                  debugPrint('button clicked');
                 },
                 child: null,
               ),
